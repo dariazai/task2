@@ -95,13 +95,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- Selenium (если нужно) -->
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-java</artifactId>
-            <version>4.31.0</version>
-        </dependency>
-
         <!-- Gson -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
